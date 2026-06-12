@@ -1,16 +1,8 @@
-<div align="center"><img width="500" alt="Ragnagard_art" src="https://github.com/user-attachments/assets/e8e0947a-3f3b-4b72-9b72-905a247a33de" />
+<div align="center"><img width="500" alt="Ragnagard_art"  />
  </div>
 
 
 # Dead or Alive Full English Patch
-This is an English "translation port" for Shinouken, a fighting game previously localized as <a href="https://en.wikipedia.org/wiki/Ragnagard">Ragnagard</a> by SNK in 1996 for the NeoGeo. It was later ported to the Sega Saturn, which remained exclusive to Japan...until now!
-
-Ragnagard utilizes pre-rendered sprites ala Killer Instinct. I've got a lot of love for this look--cemented by Donkey Kong Country wowing me as a kid--and this is what drew me to Ragnagard.
-
-While the NeoGeo version seems to have _slightly_ more frames of animation here and there, the Saturn version has better presentation, with more pre-rendered sprites and other more detailed artwork like the character portraits. This suggests that the extra time between the arcade and Saturn releases allowed the original developers to pre-render more assets and insert them into the game.
-
-The game has a rather fun ground and air dash mechanic that can open up some cool combos. While I'm just barely above a button masher when it comes to fighting games, I nonetheless hope that you will enjoy playing this one like I did.
-
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -24,14 +16,14 @@ The game has a rather fun ground and air dash mechanic that can open up some coo
 
 
 ## **Overview**
-This patch ports the translation of the NeoGeo localization to the Saturn version--in all its 90's glory. You'll see some ridiculous win quotes. Some cheesy endings. Some 90's 'tude. I've left it all untouched for the most part, except for fixing misspellings, grammar, and many, many text overruns. The game is entirely in English now thanks to the following adjustments:
+The first Dead or Alive game for Sega Saturn is one of the best fighting games on the system. While it never received an English localization, the game is almost entirely in English, which made it very import-friendly.
 
-- New localized title graphics
-- New English sprites for character names
-- New English UI round sprites, such as Round 1/2/3, Fight!!, Time Up, and Draw
-- Translated win quotes and character endings
-- Translated configuration menu
-- Translated "save warnings"
+This patch translates the last remaining Japanese elements to English:
+
+- All character bios on character select screen translated
+- All move lists in Training mode translated
+- Name entry instructions translated
+- "Save warnings" translated
 
 
 ## **Screenshots**
@@ -48,11 +40,11 @@ This patch ports the translation of the NeoGeo localization to the Saturn versio
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Shinouken (神凰拳)</td>
+    <td>Dead or Alive</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Ragnagard</td>
+    <td>Dead or Alive/td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
