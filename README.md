@@ -17,7 +17,7 @@
 ## **Overview**
 The first Dead or Alive game for Sega Saturn is one of the best fighting games on the system. While it never received an English localization, the game is almost entirely in English, which made it very import-friendly.
 
-This patch translates the last remaining Japanese elements to English:
+This patch translates the last remaining Japanese elements to English, courtesy of the existing translation found in the 2004 Xbox release of *Dead or Alive 1 Utlimate*:
 
 - All character bios on character select screen translated
 - All move lists in Training mode translated
