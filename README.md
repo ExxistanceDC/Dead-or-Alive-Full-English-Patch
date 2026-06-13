@@ -91,4 +91,7 @@ The patch is shipped as an XDelta patch.
 - wonder-inc
 - Exxistance
 
+**Special Thanks**
+- Tomonobu Itagaki & Team Ninja
+
 
