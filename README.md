@@ -70,20 +70,19 @@ The patch is shipped as an XDelta patch.
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
-4. For the Original File, locate Track 01 of the original Shinouken disc (for example: <kbd>Shinouken (Japan) (Track 01).bin</kbd>)
-5. For the XDelta patch section, locate the <kbd>Ragnagard_English_Translation_v1.0.xdelta</kbd> patch.
+4. For the Original File, locate Track 01 of the original Dead or Alive disc (for example: <kbd>Dead or Alive (Japan) (1M) (Track 01).bin</kbd>)
+5. For the XDelta patch section, locate the <kbd>Dead_or_Alive_Full_English_v1.0.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
-- Tested with release <kbd>Shinouken (Japan)</kbd>
+- Tested with release <kbd>Dead or Alive (Japan) (1M)</kbd>, <kbd>Dead or Alive (Japan) (2M)</kbd>, and <kbd>Dead or Alive (Japan) (Rev A) (10M)</kbd>
 - Tested on emulators Mednafen and Ymir, and real hardware with Satiator.
 
 ## **Credits**
 
 **Translation**
-- Original NeoGeo team (Saurus/System Vision)
-- Exxistance
+- <a href='https://www.mobygames.com/game/15449/dead-or-alive-ultimate/credits/xbox/?autoplatform=true'>Team Ninja</a>
 
 **Texture Art**
 - Exxistance
