@@ -11,6 +11,7 @@
 1. [About the Game](#About-the-Game)
 1. [Patching Instructions](#Patching-Instructions)
 1. [Credits & Special Thanks](#Credits)
+1. [Release Changelog](#Release-Changelog)
 
 
 
@@ -94,5 +95,10 @@ The patch is shipped as an XDelta patch.
 
 **Special Thanks**
 - Tomonobu Itagaki (<a href='https://www.timeextension.com/features/best-of-2025-i-told-him-i-loved-him-because-i-do-a-tribute-to-the-late-dead-or-alive-creator-tomonobu-itagaki'>RIP</a>) & Team Ninja
+
+## **Release Changelog**
+
+- **Version 1.0. (xxxxx/2026)**
+  - Initial release
 
 
