@@ -98,6 +98,10 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
+- **Version 1.0.1 (08/23/2026)**
+  - Fixed issue with English rendering of character profiles not appearing if 2P controller is used as the primary mode initiator
+  - Original Xbox mistranslation of Bayman's トラースキック updated from "Trass Kick" to "Thrust Kick." Tina's move フライングメイヤー also updated to "Flying Mare." 
+
 - **Version 1.0 (08/21/2026)**
   - Initial release
 
